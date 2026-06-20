@@ -1,6 +1,6 @@
 const CACHE_NAME = 'lcc-pwa-v2'; // Incremented version
-const BLOGGER_URL = 'https://dbgsikho.blogspot.com';
-
+const BLOGGER_URL = 'https://darbhangasikho.blogspot.com';
+const BLOGGER_URL = 'https://fixdarbhanga.pages.dev';
 // Assets that should be available offline immediately
 const STATIC_ASSETS = [
   BLOGGER_URL + '/',
