@@ -2,7 +2,7 @@
   "name": "Darbhanga Sikho",
   "short_name": "Darbhanga Sikho",
   "description": "Darbhanga Sikho Focus on great future of Student by providing affordable price education.",
-  "start_url": "https://dbgsikho.blogspot.com/",
+  "start_url": "https://darbhangasikho.blogspot.com/",
   "display": "standalone",
   "background_color": "#87f59b",
   "theme_color": "#87f59b",
