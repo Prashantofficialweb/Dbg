@@ -10,13 +10,13 @@
   "gcm_sender_id": "482941778795",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfZeKKbcLX3oYUtgrhMJc_fr_ZIt4l2yMevHMp7swGjx8xmrY8k8KtLd9WgLdLRi4twE2yM79TPWeLpLYlS4gWi5C4C81dz8Wk3bXsBWYzGwAAOt4JEHzmt6na0PEHaY-0dD30_FBVSBPWtKst5u-9SeeOhxm_O5foXrqIXf5JScw-KQFeUNngV8jfor8/s1024/IMG_0970.webp",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOpWG23WTytbvtA0IhAonLFY6cvQ_ciUoXUZzpNcQ7jMhkqBVxldbNDPYFDenZM91gAhSduCutloU94kFGcrQnyCQ8arPsD2k2qMZ_E9nztKKB1AvAq5-L2PzQpQ8aXLJxwR4KT5dr1dOQsnQYUaJFTdXBx_hJPXcPsPnRrHdChez3wy0-kGkVpSUDH89F/s1024/IMG_1417.webp",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfZeKKbcLX3oYUtgrhMJc_fr_ZIt4l2yMevHMp7swGjx8xmrY8k8KtLd9WgLdLRi4twE2yM79TPWeLpLYlS4gWi5C4C81dz8Wk3bXsBWYzGwAAOt4JEHzmt6na0PEHaY-0dD30_FBVSBPWtKst5u-9SeeOhxm_O5foXrqIXf5JScw-KQFeUNngV8jfor8/s1024/IMG_0970.webp",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOpWG23WTytbvtA0IhAonLFY6cvQ_ciUoXUZzpNcQ7jMhkqBVxldbNDPYFDenZM91gAhSduCutloU94kFGcrQnyCQ8arPsD2k2qMZ_E9nztKKB1AvAq5-L2PzQpQ8aXLJxwR4KT5dr1dOQsnQYUaJFTdXBx_hJPXcPsPnRrHdChez3wy0-kGkVpSUDH89F/s1024/IMG_1417.webp",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
